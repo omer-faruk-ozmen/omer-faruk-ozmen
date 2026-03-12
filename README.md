@@ -31,7 +31,5 @@ Hello 👋 I am a software developer.<br/>
 
 
 ### GitHub Stats
-<a href="https://github.com/omer-faruk-ozmen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omer-faruk-ozmen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"        alt="OmerFarukOzmen's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-faruk-ozmen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
-       alt="OmerFarukOzmen GitHub Top Languages"/>
+![omer-faruk-ozmen's Stats](https://github-readme-stats.vercel.app/api?username=omer-faruk-ozmen&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![omer-faruk-ozmen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omer-faruk-ozmen&theme=dark&show_icons=true&hide_border=true&layout=compact)
